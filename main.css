@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Scheherazade+New&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Istok+Web:wght@700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Cabin&display=swap');
+
+
+body {
+  background-color: #f9f9f1;
+}
+
+
+h1{
+  /* font-family: 'Fjalla One', sans-serif; */
+font-family: 'Istok Web', sans-serif;
+  font-size: 60px;
+  color: black;
+    /* text-shadow: 0px 0px 5px  #30291a; */
+}
+
+h2{
+    font-family: 'Istok Web', sans-serif;
+}
+
+h4{
+font-family: 'Cabin', sans-serif;
+}
+
+.navbar-browncolor{
+  background-color: #30291a;
+
+}
+
+.button-brown{
+  border: 2px solid white;
+  color: white;
+  background-color: #30291a;
+  font-size: 18px;
+}
+
+.button-brown:hover{
+  border: 2px solid #30291a;
+  color: #30291a;
+  background-color: white;
+}
+
+.shimoji-white{
+  background-color: white;
+
+}
+
+.btn-space {
+    margin-left: 15px;
+}
+
+.main-title {
+  display: inline-block;
+
+}
+
+
+
+.shimoji-border{
+border: 5px solid #30291a;
+}
+
+.boba-box{
+  background-color: #2e343b;
+}
+
+.boba-border{
+  background-color: #30291a;
+}
+
+.spooky-text{
+  color: white;
+  font-size: 36pt;
+  font-family: 'Istok Web', sans-serif;
+  text-align: center;
+  padding-top: 20%;
+  text-shadow: 2px 2px 5px orange;
+}
+
+
+.boba-text{
+  color: white;
+  font-size: 36pt;
+  font-family: 'Istok Web', sans-serif;
+  text-align: center;
+  padding-top: 20%;
+  text-shadow: 1px 1px 5px #d580ff;
+
+
+}
+
+
+.liststuff{
+  text-align: left;
+  padding-left: 50px;
+}
+
+.vandaliatext{
+  padding-left: 70px;
+  padding-right: 70px;
+}
+
+.footerstuff{
+  background-color: #30291a;
+}
+
+.buttoncolor{
+  background-color: #2e343b;
+  color: white;
+  font-size: 30px;
+  font-family: 'Istok Web', sans-serif;
+
+}
